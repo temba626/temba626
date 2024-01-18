@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on...<br>    • content review.<br>    • projects to add on my CV.<br><br>👯 I’m looking to collaborate on...<br>• Business projects <br><br>🌱 I’m currently learning...<br>    • Ruby and Ruby on Rails <br>    • Java and Spring Boot <br><br>⚡ Fun fact  - I am a great dribbler with ball on my feet.
+🔭 I’m currently working on...<br>    • content review.<br>    • projects to add on my CV.<br><br>👯 I’m looking to collaborate on...<br>• Business projects <br><br>🌱 I’m currently learning...<br>    • Ruby and Ruby on Rails <br>    • Vanilla JavaScript <br><br>⚡ Fun fact  - I am a great dribbler with ball on my feet.
 
 
 ## 🌐 Socials:
