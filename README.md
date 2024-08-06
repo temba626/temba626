@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on...<br>    • content review.<br>    • projects to add on my CV.<br><br>👯 I’m looking to collaborate on...<br>• Business projects <br><br>🌱 I’m currently learning...<br>    • Ruby and Ruby on Rails <br>    • Vanilla JavaScript <br><br>⚡ Fun fact  - I am a great dribbler with ball on my feet.
-
+Hello! I'm a Junior Cybersecurity Analyst with a background in web development and a growing passion for web application security. I'm on an exciting journey to deepen my skills and make the digital world a safer place.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/temba._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brandon-temba-359633223) 
